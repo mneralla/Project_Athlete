@@ -1,0 +1,292 @@
+,S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings_million,country,latitude,longitude
+0,1,Mike Tyson,United States,1,,boxing,1990,28.6,US,37.09024,-95.712891
+1,2,Buster Douglas,United States,2,,boxing,1990,26.0,US,37.09024,-95.712891
+2,3,Sugar Ray Leonard,United States,3,,boxing,1990,13.0,US,37.09024,-95.712891
+3,4,Ayrton Senna,Brazil,4,,auto racing,1990,10.0,BR,-14.235004,-51.92528
+4,5,Alain Prost,France,5,,auto racing,1990,9.0,FR,46.227638,2.213749
+5,6,Jack Nicklaus,United States,6,,golf,1990,8.6,US,37.09024,-95.712891
+6,7,Greg Norman,Australia,7,,golf,1990,8.5,AU,-25.274398,133.775136
+7,8,Michael Jordan,United States,8,,basketball,1990,8.1,US,37.09024,-95.712891
+8,9,Arnold Palmer,United States,8,,golf,1990,8.1,US,37.09024,-95.712891
+9,10,Evander Holyfield,United States,8,,boxing,1990,8.1,US,37.09024,-95.712891
+10,11,Evander Holyfield,United States,1,8,boxing,1991,60.5,US,37.09024,-95.712891
+11,12,Mike Tyson,United States,2,1,boxing,1991,31.5,US,37.09024,-95.712891
+12,13,Michael Jordan,United States,3,8,basketball,1991,16.0,US,37.09024,-95.712891
+13,14,George Foreman,United States,4,>30,boxing,1991,14.5,US,37.09024,-95.712891
+14,15,Ayrton Senna,Brazil,5,4,auto racing,1991,13.0,BR,-14.235004,-51.92528
+15,16,Alain Prost,France,6,5,auto racing,1991,11.0,FR,46.227638,2.213749
+16,17,"Donovan ""Razor"" Ruddock",Canada,7,>30,boxing,1991,10.2,CA,56.130366,-106.34677099999999
+17,18,Arnold Palmer,United States,8,8,golf,1991,9.3,US,37.09024,-95.712891
+18,19,Nigel Mansell,United Kingdom,9,12,auto racing,1991,9.0,GB,55.378051,-3.435973
+19,20,Sugar Ray Leonard,United States,10,6,golf,1991,8.5,US,37.09024,-95.712891
+20,21,Michael Jordan,United States,1,3,Basketball,1992,35.9,US,37.09024,-95.712891
+21,22,Evander Holyfield,United States,2,1,Boxing,1992,28.0,US,37.09024,-95.712891
+22,23,Ayrton Senna,Brazil,3,5,Auto Racing,1992,22.0,BR,-14.235004,-51.92528
+23,24,Nigel Mansell,United Kingdom,4,9,Auto Racing,1992,14.5,GB,55.378051,-3.435973
+24,25,Arnold Palmer,United States,5,8,Golf,1992,11.1,US,37.09024,-95.712891
+25,26,Andre Agassi,United States,6,17,Tennis,1992,11.0,US,37.09024,-95.712891
+26,27,Joe Montana,United States,7,13,NFL,1992,9.5,US,37.09024,-95.712891
+27,28,Sugar Ray Leonard,United States,8,10,Golf,1992,9.2,US,37.09024,-95.712891
+28,29,Jim Courier,United States,9,>40,Tennis,1992,9.0,US,37.09024,-95.712891
+29,30,Monica Seles,United States,10,12,Tennis,1992,8.5,US,37.09024,-95.712891
+30,31,Michael Jordan,United States,1,1,Basketball,1993,36.0,US,37.09024,-95.712891
+31,32,Riddick Bowe,United States,2,>40,Boxing,1993,25.0,US,37.09024,-95.712891
+32,33,Ayrton Senna,Brazil,3,3,Auto racing,1993,18.5,BR,-14.235004,-51.92528
+33,34,Alain Prost,France,4,>40,Auto Racing,1993,16.0,FR,46.227638,2.213749
+34,35,George Foreman,United States,5,19,Boxing,1993,15.8,US,37.09024,-95.712891
+35,36,Shaquille O'Neal,United States,6,>40,NBA,1993,15.2,US,37.09024,-95.712891
+36,37,Lennox Lewis,United States,7,>40,Boxing,1993,15.0,US,37.09024,-95.712891
+37,38,Cecil Fielder,United States,8,40,Baseball,1993,12.7,US,37.09024,-95.712891
+38,39,Jim Courier,United States,9,9,Tennis,1993,12.6,US,37.09024,-95.712891
+39,40,Joe Montana,United States,10,7,NFL,1993,11.5,US,37.09024,-95.712891
+40,41,Michael Jordan,United States,1,1,Basketball,1994,30.0,US,37.09024,-95.712891
+41,42,Shaq O'Neal,United States,2,6,Basketball,1994,16.7,US,37.09024,-95.712891
+42,43,Jack Nicklaus,United States,3,13,Golf,1994,14.8,US,37.09024,-95.712891
+43,44,Arnold Palmer,United States,4,11,Golf,1994,13.6,US,37.09024,-95.712891
+44,45,Gerhard Berger,Austria,5,30,Auto Racing,1994,13.5,AT,47.516231,14.550072
+45,46,Wayne Gretzky,Canada,5,22,Ice Hockey,1994,13.5,CA,56.130366,-106.34677099999999
+46,47,Michael Moorer,United States,7,>40,Boxing,1994,12.1,US,37.09024,-95.712891
+47,48,Evander Holyfield,United States,8,12,Boxing,1994,12.0,US,37.09024,-95.712891
+48,49,Andre Agassi,United States,9,20,Tennis,1994,11.4,US,37.09024,-95.712891
+49,50,Nigel Mansell,United Kingdom,10,19,Auto Racing,1994,11.3,GB,55.378051,-3.435973
+50,51,Michael Jordan,United States,1,1,basketball,1995,43.9,US,37.09024,-95.712891
+51,52,Mike Tyson,United States,2,not ranked,boxing,1995,40.0,US,37.09024,-95.712891
+52,53,Deion Sanders,United States,3,38,American Football / Baseball,1995,22.5,US,37.09024,-95.712891
+53,54,Riddick Bowe,United States,4,not ranked,boxing,1995,22.2,US,37.09024,-95.712891
+54,55,Shaquille O'Neal,United States,5,2,basketball,1995,21.9,US,37.09024,-95.712891
+55,56,George Foreman,United States,6,15,boxing,1995,18.0,US,37.09024,-95.712891
+56,57,Andre Agassi,United States,7,9,tennis,1995,16.0,US,37.09024,-95.712891
+57,58,Sugar Ray Leonard,United States,8,3,golf,1995,15.1,US,37.09024,-95.712891
+58,59,Michael Schumacher,Germany,9,30,auto racing,1995,15.0,DE,51.165690999999995,10.451526
+59,60,Wayne Gretzky,Canada,10,5,ice hockey,1995,14.5,CA,56.130366,-106.34677099999999
+60,61,Mike Tyson,United States,1,2,Boxing,1996,75.0,US,37.09024,-95.712891
+61,62,Michael Jordan,United States,2,1,Basketball,1996,52.6,US,37.09024,-95.712891
+62,63,Michael Schumacher,Germany,3,9,F1 Motorsports,1996,33.0,DE,51.165690999999995,10.451526
+63,64,Shaquille O'Neal,United States,4,5,Basketball,1996,24.4,US,37.09024,-95.712891
+64,65,Emmit Smith,United States,5,not ranked,NFL,1996,16.5,US,37.09024,-95.712891
+65,66,Evander Holyfield,United States,6,14,Boxing,1996,15.5,US,37.09024,-95.712891
+66,67,Andre Agassi,United States,7,7,Tennis,1996,15.2,US,37.09024,-95.712891
+67,68,Arnold Palmer,United States,8,11,Golf,1996,15.1,US,37.09024,-95.712891
+68,69,Dennis Rodman,United States,9,not ranked,Basketball,1996,12.9,US,37.09024,-95.712891
+69,70,Patrick Ewing,United States,9,19,Basketball,1996,12.9,US,37.09024,-95.712891
+70,71,Michael Jordan,United States,1,2,Basketball,1997,78.3,US,37.09024,-95.712891
+71,72,Evander Holyfield,United States,2,6,Boxing,1997,54.3,US,37.09024,-95.712891
+72,73,Oscar De La Hoya,United States,3,17,Boxing,1997,38.0,US,37.09024,-95.712891
+73,74,Michael Schumacher,Germany,4,3,F1 Motorsports,1997,35.0,DE,51.165690999999995,10.451526
+74,75,Mike Tyson,United States,5,1,Boxing,1997,27.0,US,37.09024,-95.712891
+75,76,Tiger Woods,United States,6,26,Golf,1997,26.1,US,37.09024,-95.712891
+76,77,Shaquille O'Neal,United States,7,4,Basketball,1997,25.4,US,37.09024,-95.712891
+77,78,Dale Earnhardt,United States,8,20,NASCAR,1997,19.1,US,37.09024,-95.712891
+78,79,Joe Sakic,Canada,9,none,Hockey,1997,17.9,CA,56.130366,-106.34677099999999
+79,80,Grant Hill,United States,10,18,Basketball,1997,17.0,US,37.09024,-95.712891
+80,81,Michael Jordan,United States,1,,Basketball,1998,69.0,US,37.09024,-95.712891
+81,82,Michael Schumacher,Germany,2,,F1 Motorsports,1998,38.0,DE,51.165690999999995,10.451526
+82,83,Sergei Federov,Russia,3,,Ice Hockey,1998,29.8,RU,61.52401,105.31875600000001
+83,84,Tiger Woods,United States,4,,Golf,1998,26.8,US,37.09024,-95.712891
+84,85,Dale Earnhardt,United States,5,,NASCAR,1998,24.1,US,37.09024,-95.712891
+85,86,Grant Hill,United States,6,,Basketball,1998,21.6,US,37.09024,-95.712891
+86,87,Oscar De La Hoya,United States,7,,Boxing,1998,18.5,US,37.09024,-95.712891
+87,88,Patrick Ewing,United States,8,,Basketball,1998,18.3,US,37.09024,-95.712891
+88,89,Arnold Palmer,United States,9,,Golf,1998,18.1,US,37.09024,-95.712891
+89,90,Gary Sheffield,United States,10,,Baseball,1998,17.2,US,37.09024,-95.712891
+90,91,Michael Schumacher,Germany,1,2,Auto Racing,1999,49.0,DE,51.165690999999995,10.451526
+91,92,Tiger Woods,United States,2,4,Golf,1999,47.0,US,37.09024,-95.712891
+92,93,Oscar De La Hoya,United States,3,7,Boxing,1999,43.5,US,37.09024,-95.712891
+93,94,Michael Jordan,United States,4,1,Basketball,1999,40.0,US,37.09024,-95.712891
+94,95,Evander Holyfield,United States,5,>10,Boxing,1999,35.5,US,37.09024,-95.712891
+95,96,Mike Tyson,United States,6,>10,Boxing,1999,33.0,US,37.09024,-95.712891
+96,97,Shaq O'Neal,United States,7,>10,Basketball,1999,31.0,US,37.09024,-95.712891
+97,98,Lennox Lewis,United States,8,>10,Boxing,1999,29.0,US,37.09024,-95.712891
+98,99,Dale Earnhardt,United States,9,5,Auto Racing,1999,26.5,US,37.09024,-95.712891
+99,100,Grant Hill,United States,10,6,Basketball,1999,23.0,US,37.09024,-95.712891
+100,101,Michael Schumacher,Germany,1,1,Auto Racing,2000,59.0,DE,51.165690999999995,10.451526
+101,102,Tiger Woods,United States,2,2,Golf,2000,53.0,US,37.09024,-95.712891
+102,103,Mike Tyson,United States,3,6,Boxing,2000,48.0,US,37.09024,-95.712891
+103,104,Michael Jordan,United States,4,4,Basketball,2000,37.0,US,37.09024,-95.712891
+104,105,Grant Hill,United States,5,10,Basketball,2000,26.0,US,37.09024,-95.712891
+105,106,Dale Earnhardt,United States,6,9,Auto Racing (Nascar),2000,24.5,US,37.09024,-95.712891
+106,107,Shaq O'Neal,United States,7,7,Basketball,2000,24.0,US,37.09024,-95.712891
+107,108,Lennox Lewis,United States,8,8,Boxing,2000,23.0,US,37.09024,-95.712891
+108,109,Oscar De La Hoya,United States,9,3,Boxing,2000,23.0,US,37.09024,-95.712891
+109,110,Kevin Garnett,United States,10,>10,Basketball,2000,21.0,US,37.09024,-95.712891
+110,111,Tiger Woods,United States,1,2,Golf,2002,69.0,US,37.09024,-95.712891
+111,112,Michael Schumacher,Germany,2,1,F1 Motorsports,2002,67.0,DE,51.165690999999995,10.451526
+112,113,Michael Jordan,United States,3,4,Basketball,2002,36.0,US,37.09024,-95.712891
+113,114,Lennox Lewis,United States,4,8,Boxing,2002,28.0,US,37.09024,-95.712891
+114,115,Grant Hill,United States,5,5,Basketball,2002,24.0,US,37.09024,-95.712891
+115,116,Shaquille O'Neal,United States,5,7,Basketball,2002,24.0,US,37.09024,-95.712891
+116,117,Mike Tyson,United States,7,3,Boxing,2002,23.0,US,37.09024,-95.712891
+117,118,Kevin Garnett,United States,7,10,Basketball,2002,23.0,US,37.09024,-95.712891
+118,119,Kobe Bryant,United States,9,>10,Basketball,2002,22.0,US,37.09024,-95.712891
+119,120,Jacques Villeneuve,Canada,10,>10,Auto Racing,2002,20.0,CA,56.130366,-106.34677099999999
+120,121,Jeff Gordon,United States,10,>10,Auto Racing (Nascar),2002,20.0,US,37.09024,-95.712891
+121,122,Tiger Woods,United States,1,1,Golf,2003,78.0,US,37.09024,-95.712891
+122,123,Michael Schumacher,Germany,2,2,F1 Motorsports,2003,75.0,DE,51.165690999999995,10.451526
+123,124,Michael Jordan,United States,3,3,Basketball,2003,35.0,US,37.09024,-95.712891
+124,125,Shaq O'Neal,United States,4,5,Basketball,2003,30.5,US,37.09024,-95.712891
+125,126,Oscar De La Hoya,United States,5,>10,Boxing,2003,30.0,US,37.09024,-95.712891
+126,127,Kevin Garnett,United States,6,7,Basketball,2003,28.0,US,37.09024,-95.712891
+127,128,Alex Rodriguez,United States,7,>10,Baseball,2003,26.0,US,37.09024,-95.712891
+128,129,Grant Hill,United States,8,5,Basketball,2003,25.5,US,37.09024,-95.712891
+129,130,Andre Agassi,United States,9,>10,Tennis,2003,24.0,US,37.09024,-95.712891
+130,131,Jacques Villeneuve,Canada,10,10,Auto Racing,2003,23.0,CA,56.130366,-106.34677099999999
+131,132,Tiger Woods,United States,1,1,golf,2004,80.3,US,37.09024,-95.712891
+132,133,Michael Schumacher,Germany,2,2,F1 racing,2004,80.0,DE,51.165690999999995,10.451526
+133,134,Peyton Manning,United States,3,>10,American Football,2004,42.0,US,37.09024,-95.712891
+134,135,Michael Jordan,United States,4,3,basketball,2004,35.0,US,37.09024,-95.712891
+135,136,Shaquille O'Neal,United States,5,4,basketball,2004,31.9,US,37.09024,-95.712891
+136,137,Kevin Garnett,United States,6,6,basketball,2004,29.7,US,37.09024,-95.712891
+137,138,Andre Agassi,United States,7,9,tennis,2004,28.2,US,37.09024,-95.712891
+138,139,David Beckham,United Kingdom,8,>10,soccer,2004,28.0,GB,55.378051,-3.435973
+139,140,Alex Rodriguez,United States,9,7,baseball,2004,26.2,US,37.09024,-95.712891
+140,141,Kobe Bryant,United States,10,>10,basketball,2004,26.1,US,37.09024,-95.712891
+141,142,Tiger Woods,United States,1,1,golf,2005,87.0,US,37.09024,-95.712891
+142,143,Michael Schumacher,Germany,2,2,F1 racing,2005,60.0,DE,51.165690999999995,10.451526
+143,144,Oscar De La Hoya,United States,3,>10,boxing,2005,38.0,US,37.09024,-95.712891
+144,145,Michael Vick,United States,4,>10,American Football,2005,37.5,US,37.09024,-95.712891
+145,146,Shaquille O'Neal,United States,5,5,basketball,2005,33.4,US,37.09024,-95.712891
+146,147,Michael Jordan,United States,6,4,basketball,2005,33.0,US,37.09024,-95.712891
+147,148,David Beckham,United Kingdom,7,8,soccer,2005,32.5,GB,55.378051,-3.435973
+148,149,Kobe Bryant,United States,8,10,basketball,2005,28.8,US,37.09024,-95.712891
+149,150,Lance Armstrong,United States,9,>10,cycling,2005,28.0,US,37.09024,-95.712891
+150,151,Valentino Rossi,Italy,9,>10,motorcycle gp,2005,28.0,IT,41.87194,12.56738
+151,152,Tiger Woods,United States,1,1,golf,2006,90.0,US,37.09024,-95.712891
+152,153,Michael Schumacher,Germany,2,2,F1 racing,2006,58.0,DE,51.165690999999995,10.451526
+153,154,Muhammad Ali,United States,3,>10,boxing,2006,55.0,US,37.09024,-95.712891
+154,155,Phil Mickelson,United States,4,>10,golf,2006,47.0,US,37.09024,-95.712891
+155,156,Michael Jordan,United States,5,6,basketball,2006,32.0,US,37.09024,-95.712891
+156,157,Kobe Bryant,United States,6,8,basketball,2006,31.0,US,37.09024,-95.712891
+157,158,Shaquille O'Neal,United States,7,5,basketball,2006,30.0,US,37.09024,-95.712891
+158,159,Valentino Rossi,Italy,8,9,motorcycle gp,2006,30.0,IT,41.87194,12.56738
+159,160,Alex Rodriguez,United States,9,>10,baseball,2006,29.0,US,37.09024,-95.712891
+160,161,Tom Brady,United States,9,>10,American Football,2006,29.0,US,37.09024,-95.712891
+161,162,Tiger Woods,United States,1,1,golf,2007,100.0,US,37.09024,-95.712891
+162,163,Oscar De La Hoya,United States,2,>10,boxing,2007,43.0,US,37.09024,-95.712891
+163,164,Phil Mickelson,United States,3,4,golf,2007,42.0,US,37.09024,-95.712891
+164,165,Kimi Raikkonen,Finland,4,>10,F1 racing,2007,40.0,FI,61.92411,25.748151
+165,166,Michael Schumacher,Germany,5,2,F1 racing,2007,36.0,DE,51.165690999999995,10.451526
+166,167,David Beckham,United Kingdom,6,>10,soccer,2007,33.0,GB,55.378051,-3.435973
+167,168,Kobe Bryant,United States,6,>10,basketball,2007,33.0,US,37.09024,-95.712891
+168,169,Shaquille O'Neal,United States,8,7,basketball,2007,32.0,US,37.09024,-95.712891
+169,170,Ronaldinho,Brazil,9,>10,soccer,2007,31.0,BR,-14.235004,-51.92528
+170,171,Michael Jordan,United States,9,5,basketball,2007,31.0,US,37.09024,-95.712891
+171,172,Tiger Woods,United States,1,1,golf,2008,115.0,US,37.09024,-95.712891
+172,173,David Beckham,United Kingdom,2,6,soccer,2008,50.0,GB,55.378051,-3.435973
+173,174,Michael Jordan,United States,3,9,basketball,2008,45.0,US,37.09024,-95.712891
+174,175,Phil Mickelson,United States,3,3,golf,2008,45.0,US,37.09024,-95.712891
+175,176,Kimi Raikkonen,Finland,5,4,F1 racing,2008,44.0,FI,61.92411,25.748151
+176,177,Kobe Bryant,United States,6,7,basketball,2008,39.0,US,37.09024,-95.712891
+177,178,LeBron James,United States,7,>10,basketball,2008,38.0,US,37.09024,-95.712891
+178,179,Ronaldinho,Brazil,8,9,soccer,2008,37.0,BR,-14.235004,-51.92528
+179,180,Valentino Rossi,Italy,9,>10,motorcycle gp,2008,35.0,IT,41.87194,12.56738
+180,181,Roger Federer,Switzerland,9,>10,tennis,2008,35.0,CH,46.818188,8.227511999999999
+181,182,Tiger Woods,United States,1,1,golf,2009,110.0,US,37.09024,-95.712891
+182,183,Kobe Bryant,United States,2,6,basketball,2009,45.0,US,37.09024,-95.712891
+183,184,Michael Jordan,United States,2,3,basketball,2009,45.0,US,37.09024,-95.712891
+184,185,Kimi Raikkonen,Finland,2,5,F1 racing,2009,45.0,FI,61.92411,25.748151
+185,186,David Beckham,United Kingdom,5,2,soccer,2009,42.0,GB,55.378051,-3.435973
+186,187,LeBron James,United States,6,7,basketball,2009,40.0,US,37.09024,-95.712891
+187,188,Phil Mickelson,United States,6,3,golf,2009,40.0,US,37.09024,-95.712891
+188,189,Manny Pacquiao,Philippines,6,>10,boxing,2009,40.0,PH,12.879721,121.77401699999999
+189,190,Valentino Rossi,Italy,9,9,motorcycle gp,2009,35.0,IT,41.87194,12.56738
+190,191,Dale Earnhardt Jr.,United States,10,>10,NASCAR,2009,34.0,US,37.09024,-95.712891
+191,192,Tiger Woods,United States,1,1,golf,2010,105.0,US,37.09024,-95.712891
+192,193,Floyd Mayweather,United States,2,>10,boxing,2010,65.0,US,37.09024,-95.712891
+193,194,Kobe Bryant,United States,3,2,basketball,2010,48.0,US,37.09024,-95.712891
+194,195,Phil Mickelson,United States,4,6,golf,2010,46.0,US,37.09024,-95.712891
+195,196,David Beckham,United Kingdom,5,5,soccer,2010,43.7,GB,55.378051,-3.435973
+196,197,Roger Federer,Switzerland,6,>10,tennis,2010,43.0,CH,46.818188,8.227511999999999
+197,198,LeBron James,United States,7,6,basketball,2010,42.8,US,37.09024,-95.712891
+198,199,Manny Pacquiao,Philippines,8,6,boxing,2010,42.0,PH,12.879721,121.77401699999999
+199,200,Eli Manning,United States,9,>10,American Football,2010,39.9,US,37.09024,-95.712891
+200,201,Terrell Suggs,United States,10,>10,American Football,2010,38.3,US,37.09024,-95.712891
+201,202,Tiger Woods,United States,1,1,golf,2011,75.0,US,37.09024,-95.712891
+202,203,Kobe Bryant,United States,2,3,basketball,2011,53.0,US,37.09024,-95.712891
+203,204,LeBron James,United States,3,7,basketball,2011,48.0,US,37.09024,-95.712891
+204,205,Roger Federer,Switzerland,4,6,tennis,2011,47.0,CH,46.818188,8.227511999999999
+205,206,Phil Mickelson,United States,5,4,golf,2011,46.5,US,37.09024,-95.712891
+206,207,David Beckham,United Kingdom,6,5,soccer,2011,40.0,GB,55.378051,-3.435973
+207,208,Cristiano Ronaldo,Portugal,7,13,soccer,2011,38.0,PT,39.399871999999995,-8.224454
+208,209,Alex Rodriguez,Dominican Republic,8,12,baseball,2011,35.0,DO,18.735692999999998,-70.162651
+209,210,Michael Schumacher,Germany,9,>20,F1 racing,2011,34.0,DE,51.165690999999995,10.451526
+210,211,Lionel Messi,Argentina,10,>20,soccer,2011,32.3,AR,-38.416097,-63.616671999999994
+211,212,Floyd Mayweather,United States,1,?,Boxing,2012,85.0,US,37.09024,-95.712891
+212,213,Manny Pacquiao,Philippines,2,24,Boxing,2012,62.0,PH,12.879721,121.77401699999999
+213,214,Tiger Woods,United States,3,1,Golf,2012,59.4,US,37.09024,-95.712891
+214,215,LeBron James,United States,4,3,Basketball,2012,53.0,US,37.09024,-95.712891
+215,216,Roger Federer,Switzerland,5,4,Tennis,2012,52.7,CH,46.818188,8.227511999999999
+216,217,Kobe Bryant,United States,6,2,Basketball,2012,52.3,US,37.09024,-95.712891
+217,218,Phil Mickelson,United States,7,5,Golf,2012,47.8,US,37.09024,-95.712891
+218,219,David Beckham,United Kingdom,8,6,Soccer,2012,46.0,GB,55.378051,-3.435973
+219,220,Cristiano Ronaldo,Portugal,9,21,Soccer,2012,42.5,PT,39.399871999999995,-8.224454
+220,221,Peyton Manning,United States,10,7,American Football,2012,42.4,US,37.09024,-95.712891
+221,222,Tiger Woods,United States,1,3,Golf,2013,78.1,US,37.09024,-95.712891
+222,223,Roger Federer,Switzerland,2,5,Tennis,2013,71.5,CH,46.818188,8.227511999999999
+223,224,Kobe Bryant,United States,3,6,Basketball,2013,61.9,US,37.09024,-95.712891
+224,225,LeBron James,United States,4,4,Basketball,2013,59.8,US,37.09024,-95.712891
+225,226,Drew Brees,United States,5,?,American Football,2013,51.0,US,37.09024,-95.712891
+226,227,Aaron Rodgers,United States,6,?,American Football,2013,49.0,US,37.09024,-95.712891
+227,228,Phil Mickelson,United States,7,7,Golf,2013,48.7,US,37.09024,-95.712891
+228,229,David Beckham,United Kingdom,8,8,Soccer,2013,47.2,GB,55.378051,-3.435973
+229,230,Cristiano Ronaldo,Portugal,9,9,Soccer,2013,44.0,PT,39.399871999999995,-8.224454
+230,231,Lionel Messi,Argentina,10,11,Soccer,2013,41.3,AR,-38.416097,-63.616671999999994
+231,232,Floyd Mayweather,United States,1,14,Boxing,2014,105.0,US,37.09024,-95.712891
+232,233,Cristiano Ronaldo,Portugal,2,9,Soccer,2014,80.0,PT,39.399871999999995,-8.224454
+233,234,LeBron James,United States,3,4,Basketball,2014,72.3,US,37.09024,-95.712891
+234,235,Lionel Messi,Argentina,4,10,Soccer,2014,64.7,AR,-38.416097,-63.616671999999994
+235,236,Kobe Bryant,United States,5,3,Basketball,2014,61.5,US,37.09024,-95.712891
+236,237,Tiger Woods,United States,6,1,Golf,2014,61.2,US,37.09024,-95.712891
+237,238,Roger Federer,Switzerland,7,2,Tennis,2014,56.2,CH,46.818188,8.227511999999999
+238,239,Phil Mickelson,United States,8,7,Golf,2014,53.2,US,37.09024,-95.712891
+239,240,Rafael Nadal,Spain,9,>14,Tennis,2014,44.5,ES,40.463667,-3.7492199999999998
+240,241,Matt Ryan,United States,10,>100,American Football,2014,43.8,US,37.09024,-95.712891
+241,242,Floyd Mayweather,United States,1,1,Boxing,2015,300.0,US,37.09024,-95.712891
+242,243,Manny Pacquiao,Philippines,2,11,Boxing,2015,160.0,PH,12.879721,121.77401699999999
+243,244,Cristiano Ronaldo,Portugal,3,2,Soccer,2015,79.6,PT,39.399871999999995,-8.224454
+244,245,Lionel Messi,Argentina,4,4,Soccer,2015,73.8,AR,-38.416097,-63.616671999999994
+245,246,Roger Federer,Switzerland,5,7,Tennis,2015,67.0,CH,46.818188,8.227511999999999
+246,247,LeBron James,United States,6,3,Basketball,2015,64.8,US,37.09024,-95.712891
+247,248,Kevin Durant,United States,7,20,Basketball,2015,54.2,US,37.09024,-95.712891
+248,249,Phil Mickelson,United States,8,8,Golf,2015,50.8,US,37.09024,-95.712891
+249,250,Tiger Woods,United States,9,6,Golf,2015,50.6,US,37.09024,-95.712891
+250,251,Kobe Bryant,United States,10,5,Basketball,2015,49.5,US,37.09024,-95.712891
+251,252,Cristiano Ronaldo,Portugal,1,3,Soccer,2016,88.0,PT,39.399871999999995,-8.224454
+252,253,Lionel Messi,Argentina,2,4,Soccer,2016,81.4,AR,-38.416097,-63.616671999999994
+253,254,LeBron James,United States,3,6,Basketball,2016,77.2,US,37.09024,-95.712891
+254,255,Roger Federer,Switzerland,4,5,Tennis,2016,67.8,CH,46.818188,8.227511999999999
+255,256,Kevin Durant,United States,5,7,Basketball,2016,56.2,US,37.09024,-95.712891
+256,257,Novak Djokovic,Serbia,6,13,Tennis,2016,55.8,RS,44.016521000000004,21.005859
+257,258,Cam Newton,United States,7,>20,American Football,2016,53.1,US,37.09024,-95.712891
+258,259,Phil Mickelson,United States,8,8,Golf,2016,52.9,US,37.09024,-95.712891
+259,260,Jordan Spieth,United States,9,>20,Golf,2016,52.8,US,37.09024,-95.712891
+260,261,Kobe Bryant,United States,10,10,Basketball,2016,50.0,US,37.09024,-95.712891
+261,262,Cristiano Ronaldo,Portugal,1,1,Soccer,2017,93.0,PT,39.399871999999995,-8.224454
+262,263,LeBron James,United States,2,3,Basketball,2017,86.2,US,37.09024,-95.712891
+263,264,Lionel Messi,Argentina,3,2,Soccer,2017,80.0,AR,-38.416097,-63.616671999999994
+264,265,Roger Federer,Switzerland,4,4,Tennis,2017,64.0,CH,46.818188,8.227511999999999
+265,266,Kevin Durant,United States,5,5,Basketball,2017,60.6,US,37.09024,-95.712891
+266,267,Andrew Luck,United States,6,,American Football,2017,50.0,US,37.09024,-95.712891
+267,268,Rory McIlroy,Ireland,6,17,Golf,2017,50.0,IE,53.41291,-8.243889999999999
+268,269,Stephen Curry,United States,8,,Basketball,2017,47.3,US,37.09024,-95.712891
+269,270,James Harden,United States,9,,Basketball,2017,46.6,US,37.09024,-95.712891
+270,271,Lewis Hamilton,United Kingdom,10,,auto racing,2017,46.0,GB,55.378051,-3.435973
+271,272,Floyd Mayweather,United States,1,>100,Boxing,2018,285.0,US,37.09024,-95.712891
+272,273,Lionel Messi,Argentina,2,3,Soccer,2018,111.0,AR,-38.416097,-63.616671999999994
+273,274,Cristiano Ronaldo,Portugal,3,1,Soccer,2018,108.0,PT,39.399871999999995,-8.224454
+274,275,Conor McGregor,Ireland,4,24,MMA,2018,99.0,IE,53.41291,-8.243889999999999
+275,276,Neymar,Brazil,5,18,Soccer,2018,90.0,BR,-14.235004,-51.92528
+276,277,LeBron James,United States,6,2,Basketball,2018,85.5,US,37.09024,-95.712891
+277,278,Roger Federer,Switzerland,7,4,Tennis,2018,77.2,CH,46.818188,8.227511999999999
+278,279,Stephen Curry,United States,8,8,Basketball,2018,76.9,US,37.09024,-95.712891
+279,280,Matt Ryan,United States,9,>100,American Football,2018,67.3,US,37.09024,-95.712891
+280,281,Matthew Stafford,United States,10,>100,American Football,2018,59.5,US,37.09024,-95.712891
+281,282,Lionel Messi,Argentina,1,2,Soccer,2019,127.0,AR,-38.416097,-63.616671999999994
+282,283,Cristiano Ronaldo,Portugal,2,3,Soccer,2019,109.0,PT,39.399871999999995,-8.224454
+283,284,Neymar,Brazil,3,5,Soccer,2019,105.0,BR,-14.235004,-51.92528
+284,285,Canelo Alvarez,Mexico,4,15,Boxing,2019,94.0,MX,23.634501,-102.552784
+285,286,Roger Federer,Switzerland,5,7,Tennis,2019,93.4,CH,46.818188,8.227511999999999
+286,287,Russell Wilson,United States,6,??,American Football,2019,89.5,US,37.09024,-95.712891
+287,288,Aaron Rogers,United States,7,??,American Football,2019,89.3,US,37.09024,-95.712891
+288,289,LeBron James,United States,8,6,Basketball,2019,89.0,US,37.09024,-95.712891
+289,290,Stephen Curry,United States,9,8,Basketball,2019,79.8,US,37.09024,-95.712891
+290,291,Kevin Durant,United States,10,11,Basketball,2019,65.4,US,37.09024,-95.712891
