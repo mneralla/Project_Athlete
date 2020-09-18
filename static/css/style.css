@@ -1,0 +1,12 @@
+.nav-link{
+	color:black;
+}
+.footer{
+	
+    bottom: 0;
+    width: 80%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+	float:right;
+}

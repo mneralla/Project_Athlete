@@ -5,7 +5,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 from flask_cors import CORS
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 
 
 #################################################
@@ -19,7 +19,7 @@ Base = automap_base()
 Base.prepare(engine, reflect=True)
 #print (Base.classes)
 # Save reference to the table
-#ref = Base.classes.ath1
+ref = Base.classes.ath1
 ref2 = Base.classes.avgIncome
 
 #################################################
@@ -32,19 +32,20 @@ CORS(app, supports_credentials=True)
 # Flask Routes
 #################################################
 
+
 @app.route("/")
-def welcome():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/api/v1.0/data",
-		f"/api/v1.0/avgsal"
-		
-    )
+def index():
+	return render_template("index.html")
+	
+@app.route("/map")
+def map():
+	return render_template("marker.html")
+	
+@app.route("/bar")
+def bar():
+	return render_template("bar.html")
 
-
-
-@app.route("/api/v1.0/data")	
+@app.route("/all-athletes")	
 def data():
 	session = Session(engine)
 	results = session.query(ref.name, ref.nationality, ref.sport, ref.year, ref.earnings_million, ref.country, ref.latitude, ref.longitude).all()
@@ -64,7 +65,7 @@ def data():
 		all_athletes.append(athlete_dict)
 	return jsonify(all_athletes)
 	
-@app.route("/api/v1.0/avgsal")	
+@app.route("/average-salary")	
 def avg():
 	session = Session(engine)
 	results = session.query(ref2.nationality, ref2.avgEarnings, ref2.latitude, ref2.longitude).all()
