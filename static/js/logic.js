@@ -45,7 +45,7 @@ function createMarkers(response) {
 
 // Perform an API call to the Citi Bike API to get station information. Call createMarkers when complete
 (async function(){
-    const url = "http://127.0.0.1:5000/average-salary"
+    const url = "https://project-athlete.herokuapp.com/average-salary"
 	const response = await d3.json(url)
     createMarkers(response)
 })()
