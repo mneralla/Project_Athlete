@@ -1,1 +1,1 @@
-web: gunicorn Project_Athlete.app:app
+web: gunicorn app:app
