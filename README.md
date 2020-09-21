@@ -15,9 +15,9 @@ The Map with marker used to see where the athletes are from and avergae income t
 ![Image of Map graph](https://github.com/mneralla/Project_Athlete/blob/master/Screen%20Shot%202020-09-21%20at%202.39.15%20PM.png)
 
 # Tools & Resources
-[Flask API](https://www.flaskapi.org/)
-[D3](https://d3js.org/)
-[Plotly](https://plotly.com/)
-[Jupyter Notebook](https://jupyter.org/)
-[SQLite](https://www.sqlite.org/index.html)
+*[Flask API](https://www.flaskapi.org/)
+*[D3](https://d3js.org/)
+*[Plotly](https://plotly.com/)
+*[Jupyter Notebook](https://jupyter.org/)
+*[SQLite](https://www.sqlite.org/index.html)
 
