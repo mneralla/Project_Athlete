@@ -1,4 +1,5 @@
 # Project_Athlete
-This website was created to allow people to explore analysis of the incomes from the top paid athletes around the world from 1990-2019. D3 and plotly helped build the visualizations, and flask was used to run the site. HTMl and CSS/Bootstrap was used for the stying of the website.
+This website was created to allow people to explore our analysis of the incomes from the top paid athletes around the world from 1990-2019. D3 and plotly helped build the visualizations, and flask was used to run the site. HTMl and CSS/Bootstrap was used for the stying of the website.
 # Click [here](http://project-athlete.herokuapp.com/) for the live app
-This is the home page
+These are the visualizations
+![Image of Bar graph](https://github.com/mneralla/Project_Athlete/blob/master/Screen%20Shot%202020-09-21%20at%202.38.10%20PM.png)
